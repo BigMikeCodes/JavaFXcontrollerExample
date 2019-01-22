@@ -20,7 +20,7 @@ import java.util.ResourceBundle;
  * A simple example of a javaFX controller that handles the creation of a new instance of type Student
  * The created instance will be shown view a new window
  *
- * Error checking of user input has been omitted for brevity and
+ * Error checking of user input has been omitted for brevity
  */
 public class CreateStudentController implements Initializable {
 
@@ -74,14 +74,7 @@ public class CreateStudentController implements Initializable {
 
         }
 
-
-
-        //Display to the user
-
     }
-
-
-
 
 
 }

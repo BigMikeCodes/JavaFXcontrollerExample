@@ -1,5 +1,8 @@
 package uk.co.michaelfarrant.javafxexample.model;
 
+/**
+ * A simple class to represent a Student
+ */
 public class Student {
 
     private String firstname;
