@@ -17,8 +17,8 @@ import java.net.URL;
 import java.util.ResourceBundle;
 
 /**
- * A simple example of a javaFX controller that handles the creation of a new instance of type Student
- * The created instance will be shown view a new window
+ * A simple example of a JavaFX controller that handles the creation of a new instance of type Student
+ * The created instance will be shown via a new window
  *
  * Error checking of user input has been omitted for brevity
  */
